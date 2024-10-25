@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Asus\Downloads\SnakeGame-master (1)\SnakeGame-master\Source.cpp(222,23): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Asus\Downloads\SnakeGame-master (1)\SnakeGame-master\Source.cpp(222,26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Asus\Downloads\SnakeGame-master (1)\SnakeGame-master\Source.cpp(251,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Asus\Downloads\SnakeGame-master (1)\SnakeGame-master\Source.cpp(258,36): warning C4309: 'argument': truncation of constant value
+  SnakeGame.vcxproj -> C:\Users\Asus\Downloads\SnakeGame-master (1)\SnakeGame-master\x64\Debug\SnakeGame.exe
